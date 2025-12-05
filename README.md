@@ -24,7 +24,7 @@ This bot is a proof-of-concept for strategic, high-volume comment-based marketin
 
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/](https://github.com/)[zeldr1ss]/P.0.R.N.-Project-Onboarding-Retail-Normies.git
+    git clone [https://github.com/](https://github.com/)[reldeddevs]/P.0.R.N.-Project-Onboarding-Retail-Normies.git
     ```
 
 2.  Install dependencies:
